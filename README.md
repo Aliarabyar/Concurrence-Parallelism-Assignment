@@ -1,1 +1,1 @@
-**Concurrence and Parallelism**
+**Concurrence and Parallelism - Module 02**
